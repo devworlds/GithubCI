@@ -6,7 +6,6 @@ func main() {
 }
 
 func teste() {
-a:=1
-println(a)	
+	a := 1
+	println(a)
 }
-	
